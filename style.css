@@ -76,9 +76,10 @@ a {
 	margin-bottom: 10px;
 }
 
-.sectionArticle > p {
+.sectionArticle > ul > li {
+	font-size: 125%;
 	text-align: left;
-	padding-left: 100px;
+	margin-left: 50px;
 }
 
 p {
